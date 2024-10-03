@@ -128,8 +128,8 @@ async def not_joined(client: Client, message: Message):
         ] ,
         [
             InlineKeyboardButton(
-                "Join Channel",
-                url = "https://t.me/+UmpDu5zvCZhlM2E9")
+                "Follow On Telegram",
+                url = "https://x.com/BarcaGoel?t=Td85BrEer_xvWTpx98NkVw&s=09")
         ]
     ]
     try:
